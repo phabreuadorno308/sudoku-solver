@@ -28,6 +28,7 @@ This process continues until the puzzle is solved.
 
 Example of an input Sudoku board:
 
+```text
 53##7####
 6##195###
 #98####6#
@@ -37,9 +38,11 @@ Example of an input Sudoku board:
 #6####28#
 ###419##5
 ####8##79
+```
 
 Solution produced by the solver:
 
+```text
 534678912
 672195348
 198342567
@@ -49,6 +52,7 @@ Solution produced by the solver:
 961537284
 287419635
 345286179
+```
 
 ## How to run
 
